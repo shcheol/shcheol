@@ -10,18 +10,15 @@ Skills
 --
 BackEnd
 - Java
-- Spring Boot, Spring MVC, Spring Data JPA, Spring Cloud
+- Spring Boot, Spring MVC, Spring Data JPA
 - JPA, Querydsl
 - Junit 5
 - Gradle, Maven
 - Intellij, DataGrip, Vim
-- Git, Svn
 
 DevOps
 - MySql 8
 - Tomcat
-- Jenkins
-- Kafka
 - Redis
 - Docker
 
